@@ -24,6 +24,6 @@ Microsoft can help and that's the why the repository exists: to help partners an
 Please, follow along:
 
 
-* [Microsoft Teams APIs (teams, tabs, bots, and more)](/microsoft-teams/microsoft-teams.md)
+* [Microsoft Teams APIs (teams, tabs, bots, and more)](./microsoft-teams/microsoft-teams.md)
 * [Azure Communication Services (ACS)](./acs/acs.md)
 * [Articles and Tutorials](./articles-tutorials/articles-and-tutorials.md)
