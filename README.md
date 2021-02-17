@@ -1,11 +1,11 @@
 # Digital Justice
 
-This repo was created by Microsoft to aggregate relevant content to the Digital Justice's tech community (customers, partners, developers, IT professionals in general). Some of the content you're going to find out here include (but is not limited to):
+This repo was created by Microsoft to aggregate relevant content for the Digital Justice's tech community (customers, partners, developers, IT professionals in general). Examples of content includes:
 
-* Demos related to Digital Justice on top of Microsoft's platform and services.
-* API's catalogs to speed up development of solutions for Digital Justice.
-* References for content in Microsoft's documentation that fits Digital Justice's scenarios.
-* Recurrent updates on existing contents.
+* Demos related to Digital Justice utilizing Microsoft's platform and services.
+* API catalogs to speed up development of solutions for Digital Justice.
+* References to content across Microsoft's documentation that fits within Digital Justice's scenarios.
+* Recurrent updates on existing content.
 
 ## Content available
 
