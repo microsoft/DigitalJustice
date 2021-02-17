@@ -1,16 +1,19 @@
-# Project
+# Digital Justice
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This repo was created by Microsoft to aggregate relevant content to the Digital Justice's tech community (customers, partners, developers, IT professionals in general). Some of the content you're going to find out here include (but is not limited to):
 
-As the maintainer of this project, please make a few updates:
+* Demos related to Digital Justice on top of Microsoft's platform and services.
+* API's catalogs to speed up development of solutions for Digital Justice.
+* References for content in Microsoft's documentation that fits Digital Justice's scenarios.
+* Recurrent updates on existing contents.
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+## Content available
 
-## Contributing
+* [APIs Catalog for Digital Justice](./apis-for-digital-justice/README.md)
+
+---
+
+### Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
@@ -24,7 +27,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-## Trademarks
+### Trademarks
 
 This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
 trademarks or logos is subject to and must follow 
